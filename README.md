@@ -1,0 +1,2 @@
+# face-mask-detection-
+Face Mask Detection uses an Artificial Network to determine whether or not a user is wearing a mask. To detect people without masks, the software may be linked to any existing or new IP mask detection cameras.   Users of the app may also add faces and phone numbers to get notifications if the people around them are not wearing a mask. A notification can be issued to the administrator if the camera records an unidentified face.
